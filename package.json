@@ -2,6 +2,7 @@
   "name": "react-hw7",
   "version": "0.1.0",
   "private": true,
+     "homepage": "https://cupheadultra.github.io/react-hw7/",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
